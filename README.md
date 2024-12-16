@@ -115,11 +115,4 @@ If you want to contribute to the project, you can do the following:
 
 - Report bugs or suggest improvements using the GitHub issues system.
 - Propose new features or improve documentation using pull requests.
-
-## **License**
-
-This project is distributed under the MIT license. See the LICENSE file for more details.
-
-
-
-[Support in Paypal ♥️ ](https://www.paypal.com/donate/?hosted_button_id=Z6KKYZKYY25CW)
+- 
